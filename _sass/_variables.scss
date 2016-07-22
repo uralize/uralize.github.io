@@ -1,0 +1,9 @@
+$content-max-width: 700px;
+$footer-height: 80px;
+
+$container-max-widths: (
+  sm: 576px,
+  md: $content-max-width,
+  lg: $content-max-width,
+  xl: $content-max-width
+) !default;
